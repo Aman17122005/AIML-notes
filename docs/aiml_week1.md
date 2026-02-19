@@ -1,4 +1,4 @@
-**Knowledge**
+**# Knowledge**
 
 -There are two types of Knowledge:
 1.Explicit Knowledge
@@ -6,13 +6,13 @@
 
 ---
 
-**Intelligence**
+**# Intelligence**
 
 -Intelligence is the abolity to achieve goals in a wide range of situations.
 
 ---
 
-**AI**
+**# AI**
 
 ## Stands for Artificial Intelligence
 
