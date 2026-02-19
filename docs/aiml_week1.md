@@ -14,11 +14,11 @@
 
 **AI**
 
-##Stands for Artificial Intelligence
+## Stands for Artificial Intelligence
 
 -Making machines do things that would requires intelligence if a human did them.
 ---
-###Examples
+### Examples
 
 :1.Recognizing faces.
 
@@ -36,21 +36,21 @@
 
 "If the chess piece can move to square and square has enemy piece->capture"
 
-##The is called "Expert Systems" or "Rule Based AI"
+## The is called "Expert Systems" or "Rule Based AI"
 
 ** The problem with Rules  **
 
 -How would you write rules for tasks that humans do intuitively?
 
-#Recognizing a Face:
+# Recognizing a Face:
 
 How would you define the exact distance between eyes or the curve of a nose for every possible angle and lighting?
 
-#Understanding Sarcasm:
+# Understanding Sarcasm:
 
 "Oh. Great." Does it mean something is good,or is it a complaint?Rules can't easily capture tone and context.
 
-#Decoding idioms:
+# Decoding idioms:
 
 "It's raining cats and dogs." A rule-based system might loook for falling animal instead of understanding the metaphor.
 ---
@@ -74,7 +74,7 @@ This is called Machine Learning(ML)
 
 ---
 
-#The Analogy:
+# The Analogy:
 
 "Like a child learning by trial and error"
 
@@ -86,7 +86,7 @@ This is called Machine Learning(ML)
 ---
 **Early ML: Modest Successes:**
 
-#What Worked?
+# What Worked?
 
 -Spam filters got better
 
@@ -94,7 +94,7 @@ This is called Machine Learning(ML)
 
 -Basic image recognition
 
-#The Bottleneck:
+# The Bottleneck:
 
 -Couldn't have a conversation
 
@@ -104,7 +104,7 @@ This is called Machine Learning(ML)
 ---
 **Why Early ML was limited**
 
-#Bottleneck 01:Not Enough data
+# Bottleneck 01:Not Enough data
 
 - Machine Learning requires massive amounts of exampples to learn patterns effectively.
 
@@ -113,7 +113,7 @@ This is called Machine Learning(ML)
 -The internet was in its infancy.
 
 
-#Bottleneck 02
+# Bottleneck 02
 
 -Learning from data requires intense mathematical calculations.
 
@@ -124,43 +124,43 @@ This is called Machine Learning(ML)
 ---
 **AI Winters:When Hope Died(Twice)
 
-#1970s Winter
+# 1970s Winter
 
-##The first Collapse
+## The first Collapse
 
 -Researchers promised human-level AI in 20 years.When they failed to deleiver, funding dried up 
 and internet vanished.
 
- ##1980s-90s Winter
+ ## 1980s-90s Winter
  
  -Expert Systems were supposed to revolutionize bussiness,but they were too brittle for the real world.Funding vanished again.
 
- ###"The field become joke.Saying you worked on AI was career suicide."
+ ### "The field become joke.Saying you worked on AI was career suicide."
 
  ---
  **WHY AI EXPLODED(AFTER 2012)**
  
- #01.Data
+ # 01.Data
  
- ##The internet
+ ## The internet
  
  -Massive datasets of text images,and video became available for the first time.
  
- #02.Compute
+ # 02.Compute
  
- ##GPUs
+ ## GPUs
  
  -Graphics cards,built for gaming,turned out to be perfect for the math ML needs.
  
- #03.Algorithm
+ # 03.Algorithm
  
- ##Deep Learning
+ ## Deep Learning
  
  -Researchers finaaly cracked how to train much deeper and more complex neural networks.
 
  ---
  **Why Language is Hard for Computers**
  
- #"Fast tracking the AI Course" and "Fast -tracking the course of AI."
+ # "Fast tracking the AI Course" and "Fast -tracking the course of AI."
 
  
